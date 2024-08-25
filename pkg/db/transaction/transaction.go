@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/errors"
 
 	"github.com/ukrainskykirill/platform_common/pkg/db"
-	"github.com/ukrainskykirill/platform_common/pkg/db/pkg"
+	"github.com/ukrainskykirill/platform_common/pkg/db/pg"
 )
 
 type manager struct {
